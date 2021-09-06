@@ -1,5 +1,5 @@
 ### What's up guys 🤠🤠
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen1571)](https://github.com/Chen1571/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen1571)](https://github.com/chen1571/github-readme-stats)
 
 
 <!--
