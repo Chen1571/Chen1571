@@ -1,4 +1,4 @@
-## What's up guys 🤠🤠
+# What's up guys 🤠🤠
 
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chen1571)](https://github.com/chen1571/github-readme-stats)
