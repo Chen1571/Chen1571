@@ -1,4 +1,5 @@
-# Welcome to my GitHub Page! 🤠
+# Hi there, I'm Kevin 👋
+## Currently exploring these Javascript 😃
 
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chen1571)](https://github.com/chen1571/github-readme-stats)
