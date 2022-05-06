@@ -1,5 +1,5 @@
 # Hi there, I'm Kevin 👋
-## Currently exploring Javascript 😃
+## Currently exploring Javascript Libraries and Frameworks 😃
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chen1571&theme=dracula)](https://github.com/chen1571/github-readme-stats)
 
 <!--
