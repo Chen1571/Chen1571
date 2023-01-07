@@ -4,6 +4,6 @@
 ### Languages:
 [![My Langs](https://skillicons.dev/icons?i=java,js,html,css,c,python&theme=light)](https://skillicons.dev)
 ### Libraries / Frameworks:
-[![My Libs/Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,materialui,nextjs)](https://skillicons.dev)
+[![My Libs/Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,materialui,discord)](https://skillicons.dev)
 ### Software:
 [![My Software](https://skillicons.dev/icons?i=mongodb,git)](https://skillicons.dev)
